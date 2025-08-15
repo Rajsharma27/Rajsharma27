@@ -22,7 +22,7 @@ I enjoy **coding, problem-solving, and project-based learning** to strengthen my
 - 🎬 **Movie Recommender System** — Collaborative & Content-Based filtering with movie details page  
 - 📈 ** Real time Stock Price Prediction System** — ML model with ma & ema plots  
 - 😊 **Brain Tumor Detection** — Pretrained VGG16 with data augmentation and imbalance handling
-- 
+
 ---
 
 ## 📊 GitHub Stats
