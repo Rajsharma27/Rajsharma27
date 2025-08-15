@@ -11,43 +11,40 @@ I enjoy **coding, problem-solving, and project-based learning** to strengthen my
 ## 🛠️ Skills & Tools
 
 **Languages:** Python, C++, C  
-**ML/DL:** TensorFlow, Pandas, NumPy, Scikit-learn  
-**Databases:** MySQL  
-**Web:** HTML, CSS, JavaScript, Flask, Streamlit  
-**Other:** Data Structures & Algorithms, SQL
+**ML/DL:** TensorFlow, Pandas, NumPy, Scikit-learn, Pytorch 
+**Databases:** MySQL, PostgreSQL, SQLite 
+**Web Frameworks:** HTML, CSS, Flask, Streamlit, FastAPI, Pydantic 
 
 ---
 
 ## 🚀 Projects
 
 - 🎬 **Movie Recommender System** — Collaborative & Content-Based filtering with movie details page  
-- 📈 **Stock Price Prediction App** — LSTM model with EMA & MA plots  
-- 😊 **Emotion Detection** — Pretrained ResNet50 with data augmentation and imbalance handling  
-- 📜 **Certificate Issuance Portal** — Website for online certificate application & real-time monitoring  
-- 🎯 **Dot-Click Game** — JavaScript-based reaction time game  
-
+- 📈 ** Real time Stock Price Prediction System** — ML model with ma & ema plots  
+- 😊 **Brain Tumor Detection** — Pretrained VGG16 with data augmentation and imbalance handling
+- 
 ---
 
 ## 📊 GitHub Stats
 
-![Raj's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajsharma&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajsharma&layout=compact&theme=radical)
+![Raj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rajsharma27&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajsharma27&layout=compact&theme=radical)
 
 ---
 
 ## 🌱 Currently Learning
 
-- Advanced Deep Learning architectures (CNNs, RNNs, LSTMs)  
+- Pytorch  
 - NLP and Generative AI  
-- Backend development with Flask  
+- Backend development with FastAPI
 
 ---
 
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raj-sharma)  
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/rajsharma)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rajsharma@example.com)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/rsbit30)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sharmaraj.sm@gmail.com)
 
 ---
 
