@@ -34,8 +34,8 @@ I enjoy **coding, problem-solving, and project-based learning** to strengthen my
 
 ## 🌱 Currently Learning
 
-- Pytorch  
-- NLP and Generative AI  
+- Langchain & LangGraph  
+- Generative AI  
 - Backend development with FastAPI
 
 ---
