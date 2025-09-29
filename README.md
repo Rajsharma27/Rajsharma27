@@ -80,6 +80,7 @@
 
 ---
 
-![wave](https://raw.githubusercontent.com/rajsharma27/rajsharma27/main/wave.svg)  
+![wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer)
+
 
 ✨ *“Code. Learn. Build. Repeat.”* 🚀  
