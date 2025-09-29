@@ -1,5 +1,7 @@
 # Hi there, I'm Raj Sharma 👋  
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=B.Tech+Student+%40+NIT+Meghalaya;Machine+Learning+%7C+Deep+Learning+%7C+AI;Always+Learning+New+Things+🚀)](https://git.io/typing-svg)
+
 🎓 **B.Tech Student** | Electrical, Electronics & Communications Engineering  
 📍 *National Institute of Technology, Meghalaya* | *Expected Graduation: April 2027*  
 
@@ -76,5 +78,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sharmaraj.sm@gmail.com)  
 
 ---
+
+![wave](https://raw.githubusercontent.com/rajsharma27/rajsharma27/main/wave.svg)  
 
 ✨ *“Code. Learn. Build. Repeat.”* 🚀  
