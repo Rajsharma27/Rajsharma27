@@ -13,15 +13,15 @@ I enjoy **coding, problem-solving, and project-based learning** to strengthen my
 **Languages:** Python, C++, C  
 **ML/DL:** TensorFlow, Pandas, NumPy, Scikit-learn, Pytorch 
 **Databases:** MySQL, PostgreSQL, SQLite 
-**Web Frameworks:** HTML, CSS, Flask, Streamlit, FastAPI, Pydantic 
+**Web Frameworks:** HTML, CSS, Flask, Streamlit, FastAPI
 
 ---
 
 ## 🚀 Projects
 
-- 🎬 **Movie Recommender System** — Collaborative & Content-Based filtering with movie details page  
-- 📈 ** Real time Stock Price Prediction System** — ML model with ma & ema plots  
-- 😊 **Brain Tumor Detection** — Pretrained VGG16 with data augmentation and imbalance handling
+- 🎬 **Movie Recommender System** — Collaborative & Content-Based filtering with movie details page.  
+- 📈 **Real time Stock Price Prediction System** — Real time prediction of Stock Prices and related news sentiment analysis.
+- 😊 **DocBot** — A RAG based system by which user can upload pdfs and talk to them.
 
 ---
 
@@ -34,9 +34,10 @@ I enjoy **coding, problem-solving, and project-based learning** to strengthen my
 
 ## 🌱 Currently Learning
 
-- Langchain & LangGraph  
+- LangGraph  
 - Generative AI  
 - Backend development with FastAPI
+- Cloud Deployement and hosting
 
 ---
 
