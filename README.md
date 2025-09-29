@@ -11,7 +11,7 @@ I enjoy **coding, problem-solving, and project-based learning** to strengthen my
 ## 🛠️ Skills & Tools
 
 **Languages:** Python, C++, C  
-**ML/DL:** TensorFlow, Pandas, NumPy, Scikit-learn, Pytorch 
+**ML/DL:** TensorFlow, Pandas, NumPy, Scikit-learn, Pytorch, Langchain
 **Databases:** MySQL, PostgreSQL, SQLite 
 **Web Frameworks:** HTML, CSS, Flask, Streamlit, FastAPI
 
