@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&lines=Hi+I'm+Raj+Sharma;Machine+Learning+%7C+Deep+Learning+%7C+AI;Always+Learning+New+Things+🚀)](https://git.io/typing-svg)
 
 <div align="center">
-  <img height = 200 src = ./242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif>
+  <img height = 400 src = ./242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif width=100%>
 </div>
 
 <div align="center">
