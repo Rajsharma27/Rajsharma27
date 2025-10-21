@@ -6,6 +6,11 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 </div>
 
+<div align="center">
+  <img height="200" src="./banner.gif"  />
+</div>
+
+
 🎓 **B.Tech Student** | Electrical, Electronics & Communications Engineering  
 📍 *National Institute of Technology, Meghalaya* | *Expected Graduation: April 2027*  
 
