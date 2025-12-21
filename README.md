@@ -1,85 +1,70 @@
-<div align="center">
-  <img height="200" src="https://media.giphy.com/media/M9gbBd9nbDrOTuRPQm/giphy.gif"  />
-</div>
+# Hi there, I'm Raj Sharma 👋  
 
-###
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&lines=Hi+I'm+Raj+Sharma;Machine+Learning+%7C+Deep+Learning+%7C+AI;Always+Learning+New+Things+🚀)](https://git.io/typing-svg)
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=Hi+There!+%F0%9F%91%8B;I'm+Raj+Sharma;Full+Stack+Developer;Creative+Coder" alt="Typing SVG" />
-  </a>
+  <img height = 400 src = ./242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif width=100%>
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"/>
+  <img height="200" src="./212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"  />
 </div>
 
-<br/>
 
-<div align="center">
-  
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Rajsharma27&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
-  </a>
+🎓 **B.Tech Student** | Electrical, Electronics & Communications Engineering  
+📍 *National Institute of Technology, Meghalaya* | *Expected Graduation: April 2027*  
 
-</div>
+💡 Passionate about **Machine Learning, Deep Learning, and AI** — I love building intelligent solutions to solve real-world problems.  
+⚡ I enjoy **coding, problem-solving, and project-based learning** to strengthen my skills and create impactful projects.  
 
-<br/>
+---
 
-<div align="center">
-  Looking for opportunities to collaborate on web development and open source projects!
-</div>
+🚀 Languages
+<p align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" title="Python"/>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++" title="C++"/>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" alt="C" title="C"/> </p>
 
-<br/>
+🤖 Machine Learning / Deep Learning
+<p align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" alt="TensorFlow" title="TensorFlow"/>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" alt="PyTorch" title="PyTorch"/>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" width="40" alt="Hugging Face" title="Hugging Face"/>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" alt="NumPy" title="NumPy"/>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" alt="Pandas" title="Pandas"/>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40" alt="Scikit-learn" title="Scikit-learn"/> </p>
 
-<h2 align="center"> 🛠️ Tech Stack 🛠️ </h2>
+🗄️ Databases
+<p align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL" title="MySQL"/>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL" title="PostgreSQL"/>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" alt="SQLite" title="SQLite"/> <img src="https://buildwithlayer.gallerycdn.vsassets.io/extensions/buildwithlayer/sqlalchemy-integration-expert-jyszg/0.0.13/1740523961608/Microsoft.VisualStudio.Services.Icons.Default" width="40" alt="SQLAlchemy" title="SQLAlchemy"/>
 
-<br/>
+🌐 Web Frameworks
+<p align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5" title="HTML5"/>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3" title="CSS3"/>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.icons8.com/?size=100&id=hCWb1IvpcBZ0&format=png&color=000000" width="40" alt="Flask" title="Flask"/>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" alt="FastAPI" title="FastAPI"/>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="40" alt="Streamlit" title="Streamlit"/> </p>
 
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,git,github,vscode,figma&perline=7" />
-</div>
 
-<br/>
+## 🚀 Projects  
 
-<h2 align="center"> 📊 GitHub Stats 📊 </h2>
+- 🎬 **Movie Recommender System** — Hybrid (Collaborative + Content-Based) recommender with movie details page.  
+- 📈 **Real-time Stock Price Prediction System** — LSTM-powered prediction + related news sentiment analysis.  
+- 🤖 **DocBot** — A **RAG-based chatbot** where users can upload PDFs and query them.  
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rajsharma27&show_icons=true&theme=radical&hide_border=true&bg_color=00000000" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajsharma27&layout=compact&theme=radical&hide_border=true&bg_color=00000000" />
-</div>
+---
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rajsharma27&theme=radical&hide_border=true&background=00000000" />
-</div>
+## 📊 GitHub Stats  
 
-<br/>
+![Raj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rajsharma27&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajsharma27&layout=compact&theme=tokyonight)  
 
-<h2 align="center"> 🐍 Contribution Snake 🐍 </h2>
+---
 
-<div align="center">
-  <img src="https://github.com/Rajsharma27/Rajsharma27/blob/output/github-contribution-grid-snake.svg" alt="snake" />
-</div>
-<!-- Note: The snake animation requires a GitHub Action workflow to be set up in your repository to generate the svg image. -->
+## 🌱 Currently Exploring  
 
-<br/>
+- ⚡ LangGraph  
+- 🎨 Generative AI  
+- 🖥️ Backend Development with FastAPI  
+- ☁️ Cloud Deployment & Hosting  
 
-<h2 align="center"> 🤝 Let's Connect 🤝 </h2>
+---
 
-<div align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/YOUR_TWITTER">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-</div>
+## 📫 Connect with Me  
 
-<br/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajsharma27/)  
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/rsbit30)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sharmaraj.sm@gmail.com)  
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rajsharma27&style=flat-square&color=blueviolet" alt="Profile View Counter" />
-</div>
+---
+
+![wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer)
+
+
+✨ *"Code. Learn. Build. Repeat."* 🚀
