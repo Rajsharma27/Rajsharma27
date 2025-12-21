@@ -43,7 +43,7 @@
 ## 📊 GitHub Stats  
 
 ![Raj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rajsharma27&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajsharma27&layout=compact&theme=dark)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajsharma27&layout=compact&theme=tokyonight)  
 
 ---
 
