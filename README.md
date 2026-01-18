@@ -45,8 +45,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" alt="NumPy" title="NumPy"/>&nbsp;&nbsp;&nbsp;&nbsp; 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" alt="Pandas" title="Pandas"/>&nbsp;&nbsp;&nbsp;&nbsp; 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="50" alt="Scikit-learn" title="Scikit-learn"/>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/langchain_logo.svg" width="50"/>
-<img src="https://raw.githubusercontent.com/langchain-ai/langgraph/main/docs/static/langgraph.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/langchain-ai/langchain/docs/static/img/langchain_logo.svg" width="50" alt="LangChain" title="LangChain"/>&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/langchain-ai/langgraph/docs/static/langgraph.svg" width="50" alt="LangGraph" title="LangGraph"/>
 
 
 </p>
