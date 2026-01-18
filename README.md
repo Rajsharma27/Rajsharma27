@@ -37,15 +37,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" alt="C" title="C"/> 
 </p>
 
-<!---### 🤖 Machine Learning / Deep Learning
-<p> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50" alt="TensorFlow" title="TensorFlow"/>&nbsp;&nbsp;&nbsp;&nbsp; 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="50" alt="PyTorch" title="PyTorch"/>&nbsp;&nbsp;&nbsp;&nbsp; 
-  <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" width="50" alt="Hugging Face" title="Hugging Face"/>&nbsp;&nbsp;&nbsp;&nbsp; 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" alt="NumPy" title="NumPy"/>&nbsp;&nbsp;&nbsp;&nbsp; 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" alt="Pandas" title="Pandas"/>&nbsp;&nbsp;&nbsp;&nbsp; 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="50" alt="Scikit-learn" title="Scikit-learn"/>&nbsp;&nbsp;&nbsp;&nbsp;
-</p> --->
 ### 🤖 Machine Learning / Deep Learning
 <p> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50" alt="TensorFlow" title="TensorFlow"/>&nbsp;&nbsp;&nbsp;&nbsp; 
@@ -54,9 +45,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" alt="NumPy" title="NumPy"/>&nbsp;&nbsp;&nbsp;&nbsp; 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" alt="Pandas" title="Pandas"/>&nbsp;&nbsp;&nbsp;&nbsp; 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="50" alt="Scikit-learn" title="Scikit-learn"/>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://python.langchain.com/img/brand/wordmark.png" width="120" alt="LangChain" title="LangChain"/>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://python.langchain.com/img/brand/wordmark-dark.png" width="120" alt="LangGraph" title="LangGraph"/>
-</p>
+</p> 
+
 
 
 ### 🗄️ Databases
