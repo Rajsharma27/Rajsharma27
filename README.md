@@ -42,9 +42,7 @@ I am a passionate **Machine Learning Engineer** and **AI Developer** who enjoys 
 </p>
 
 ### 🤖 AI, Machine Learning & Data Science
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
-</p>
+
 
 <p align="left">
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
