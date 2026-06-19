@@ -36,34 +36,47 @@ I am a passionate **Machine Learning Engineer** and **AI Developer** who enjoys 
 
 ## 🛠️ Tech Stack
 
-### 🚀 Languages & Core
+### 🚀 Languages
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,cpp,c" />
 </p>
 
 ### 🤖 AI, Machine Learning & Data Science
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-  <br>
-  <code>NumPy</code> • <code>Pandas</code> • <code>Scikit-Learn</code> • <code>Hugging Face</code> • <code>LangChain</code> • <code>LangGraph</code>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
 </p>
 
-### 🌐 Web & Databases
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=fastapi,flask,html,css" />
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-0F172A?style=for-the-badge&logo=graphql&logoColor=white" />
+</p>
+
+### 🌐 Backend & Web Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=fastapi,flask,html,css,js" />
+</p>
+
+### 🗄️ Databases
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,redis" />
+</p>
+
+### 🛠️ Tools & Platforms
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,bash,vscode,anaconda" />
+</p>
+
+### ☁️ Cloud & Deployment
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,vercel,netlify" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
 
-| 🎬 [Movie Recommender](https://github.com/Rajsharma27/your-repo-link) | 📈 [Stock Price Predictor](https://github.com/Rajsharma27/your-repo-link) | 🤖 [DocBot RAG](https://github.com/Rajsharma27/your-repo-link) |
-| :--- | :--- | :--- |
-| **Hybrid Recommendation System**<br>✔ Collaborative Filtering<br>✔ Content-Based Filtering<br>✔ Movie Details Page | **Deep Learning Dashboard**<br>✔ LSTM Prediction<br>✔ News Sentiment Analysis<br>✔ Interactive UI | **RAG-Powered Chatbot**<br>✔ PDF Upload & Parsing<br>✔ Vector Database Integration<br>✔ Context-Aware Responses |
-| *Python, Pandas, Scikit-Learn* | *TensorFlow, Keras, FastAPI* | *LangChain, PyTorch, Hugging Face* |
-
-*(Note: Click the titles to view the repositories!)*
 
 ---
 
@@ -71,7 +84,6 @@ I am a passionate **Machine Learning Engineer** and **AI Developer** who enjoys 
 
 *   🔭 **Currently Exploring:** LangGraph, Generative AI, Cloud Deployment, and building scalable FastAPI backends.
 *   🏅 **Milestones:** Open Source Contributor | Exploring Large Language Models | Developing end-to-end RAG pipelines.
-*   🏆 **Achievements:** *(Add any hackathon wins, top Kaggle ranks, or certifications here!)*
 
 ---
 
