@@ -61,17 +61,17 @@ I am a passionate **Machine Learning Engineer** and **AI Developer** who enjoys 
 
 ### 🗄️ Databases
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,redis" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb" />
 </p>
 
 ### 🛠️ Tools & Platforms
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,bash,vscode,anaconda" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,anaconda" />
 </p>
 
 ### ☁️ Cloud & Deployment
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,vercel,netlify" />
+  <img src="https://skillicons.dev/icons?i=docker" />
 </p>
 
 ---
