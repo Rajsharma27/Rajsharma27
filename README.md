@@ -1,170 +1,145 @@
 <div align="center">
 
-# Hi there, I'm Raj Sharma 👋  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F75C7E,100:6A5ACD&height=200&section=header&text=Hi%20There,%20I'm%20Raj%20Sharma&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Machine%20Learning%20%7C%20Deep%20Learning%20%7C%20AI&descAlignY=55&descSize=18" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&lines=Hi+I'm+Raj+Sharma;Machine+Learning+%7C+Deep+Learning+%7C+AI;Always+Learning+New+Things+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Building+intelligent+systems+%F0%9F%A4%96;Always+learning+%2C+always+shipping+%F0%9F%9A%80;ML+%7C+DL+%7C+GenAI+Enthusiast)](https://git.io/typing-svg)
 
-<img height = 400 src = ./242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif width=100%>
-
-<img height="200" src="./212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"  />
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Rajsharma27&style=for-the-badge&color=F75C7E" alt="Profile views"/>
+  <img src="https://img.shields.io/github/followers/Rajsharma27?style=for-the-badge&color=6A5ACD&logo=github" alt="Followers"/>
+</p>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br/>
 
-<div align="center">
+## 🎓 About Me
 
-### 🎓 About Me
+- 🎓 **B.Tech** in Electrical, Electronics & Communications Engineering
+- 🏫 National Institute of Technology, Meghalaya — *Expected Graduation: April 2027*
+- 💡 Passionate about **Machine Learning, Deep Learning & AI** — I love turning data into intelligent, real-world solutions
+- ⚡ Currently deep-diving into **Generative AI** and **Agentic workflows** with LangGraph
+- 📫 Reach me at **sharmaraj.sm@gmail.com**
 
-**B.Tech Student** | Electrical, Electronics & Communications Engineering  
-📍 *National Institute of Technology, Meghalaya* | *Expected Graduation: April 2027*  
-
-💡 Passionate about **Machine Learning, Deep Learning, and AI** — I love building intelligent solutions to solve real-world problems.  
-⚡ I enjoy **coding, problem-solving, and project-based learning** to strengthen my skills and create impactful projects.
-
-</div>  
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<div align="center">
+<br/>
 
 ## 🛠️ Tech Stack
 
-### 🚀 Languages
-<p> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" alt="Python" title="Python"/>&nbsp;&nbsp;&nbsp;&nbsp; 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" alt="C++" title="C++"/>&nbsp;&nbsp;&nbsp;&nbsp; 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" alt="C" title="C"/> 
-</p>
+**Languages**
 
-### 🤖 Machine Learning / Deep Learning
-<p> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50" alt="TensorFlow" title="TensorFlow"/>&nbsp;&nbsp;&nbsp;&nbsp; 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="50" alt="PyTorch" title="PyTorch"/>&nbsp;&nbsp;&nbsp;&nbsp; 
-  <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" width="50" alt="Hugging Face" title="Hugging Face"/>&nbsp;&nbsp;&nbsp;&nbsp; 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" alt="NumPy" title="NumPy"/>&nbsp;&nbsp;&nbsp;&nbsp; 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" alt="Pandas" title="Pandas"/>&nbsp;&nbsp;&nbsp;&nbsp; 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="50" alt="Scikit-learn" title="Scikit-learn"/>&nbsp;&nbsp;&nbsp;&nbsp;
-</p> 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 
+**Machine Learning / Deep Learning**
 
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-### 🗄️ Databases
-<p> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" alt="MySQL" title="MySQL"/>&nbsp;&nbsp;&nbsp;&nbsp; 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" alt="PostgreSQL" title="PostgreSQL"/>&nbsp;&nbsp;&nbsp;&nbsp; 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="50" alt="SQLite" title="SQLite"/>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://buildwithlayer.gallerycdn.vsassets.io/extensions/buildwithlayer/sqlalchemy-integration-expert-jyszg/0.0.13/1740523961608/Microsoft.VisualStudio.Services.Icons.Default" width="50" alt="SQLAlchemy" title="SQLAlchemy"/>
-</p>
+**Web Frameworks**
 
-### 🌐 Web Frameworks
-<p> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" alt="HTML5" title="HTML5"/>&nbsp;&nbsp;&nbsp;&nbsp; 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" alt="CSS3" title="CSS3"/>&nbsp;&nbsp;&nbsp;&nbsp; 
-  <img src="https://img.icons8.com/?size=100&id=hCWb1IvpcBZ0&format=png&color=000000" width="50" alt="Flask" title="Flask"/>&nbsp;&nbsp;&nbsp;&nbsp; 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="50" alt="FastAPI" title="FastAPI"/>&nbsp;&nbsp;&nbsp;&nbsp; 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="50" alt="Streamlit" title="Streamlit"/> 
-</p>
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-</div>
+**Databases**
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=python&logoColor=white)
 
-<div align="center">
+<br/>
 
 ## 🚀 Featured Projects
 
-</div>
-
-<table align="center">
+<table align="center" width="100%">
   <tr>
-    <td align="center" width="33%">
-      <h3>🎬 Movie Recommender</h3>
-      <p>Hybrid (Collaborative + Content-Based) recommender with movie details page</p>
+    <td width="33%" valign="top">
+      <h3 align="center">🎬 Movie Recommender</h3>
+      <p align="center">Hybrid (Collaborative + Content-Based) recommendation engine with a full movie details page.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+      </p>
     </td>
-    <td align="center" width="33%">
-      <h3>📈 Stock Price Predictor</h3>
-      <p>LSTM-powered prediction + related news sentiment analysis</p>
+    <td width="33%" valign="top">
+      <h3 align="center">📈 Stock Price Predictor</h3>
+      <p align="center">LSTM-powered price forecasting paired with real-time news sentiment analysis.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+        <img src="https://img.shields.io/badge/LSTM-6A5ACD?style=flat-square"/>
+      </p>
     </td>
-    <td align="center" width="33%">
-      <h3>🤖 DocBot</h3>
-      <p>RAG-based chatbot where users can upload PDFs and query them</p>
+    <td width="33%" valign="top">
+      <h3 align="center">🤖 DocBot</h3>
+      <p align="center">RAG-based chatbot — upload any PDF and query it conversationally.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/RAG-F75C7E?style=flat-square"/>
+        <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+      </p>
     </td>
   </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p align="center"><sub>💡 Add a live demo or repo link under each project title once deployed — recruiters click through to working demos far more than to plain text.</sub></p>
 
-<div align="center">
+<br/>
 
 ## 📊 GitHub Stats
 
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rajsharma27&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajsharma27&layout=compact&langs_count=8&theme=tokyonight"/>
+<p align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Rajsharma27&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajsharma27&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rajsharma27&theme=tokyonight&hide_border=true" alt="streak stats"/>
+</p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Rajsharma27/Rajsharma27/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
+</p>
 
-<img src="https://raw.githubusercontent.com/Rajsharma27/Rajsharma27/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<div align="center">
+<br/>
 
 ## 🌱 Currently Exploring
 
-<table>
+<table align="center">
   <tr>
-    <td align="center" width="25%">
-      <br>⚡<br>
-      <strong>LangGraph</strong>
-    </td>
-    <td align="center" width="25%">
-      <br>🎨<br>
-      <strong>Generative AI</strong>
-    </td>
-    <td align="center" width="25%">
-      <br>🖥️<br>
-      <strong>Backend Development<br>with FastAPI</strong>
-    </td>
-    <td align="center" width="25%">
-      <br>☁️<br>
-      <strong>Cloud Deployment<br>& Hosting</strong>
-    </td>
+    <td align="center" width="25%">⚡<br><strong>LangGraph</strong></td>
+    <td align="center" width="25%">🎨<br><strong>Generative AI</strong></td>
+    <td align="center" width="25%">🖥️<br><strong>FastAPI Backends</strong></td>
+    <td align="center" width="25%">☁️<br><strong>Cloud Deployment</strong></td>
   </tr>
 </table>
 
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<div align="center">
+<br/>
 
 ## 📫 Connect with Me
 
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/in/rajsharma27/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>&nbsp;&nbsp;
+  </a>
   <a href="https://www.kaggle.com/rsbit30">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
-  </a>&nbsp;&nbsp;
+  </a>
   <a href="mailto:sharmaraj.sm@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 <div align="center">
 
 ### ✨ *"Code. Learn. Build. Repeat."* 🚀
 
-![wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:F75C7E&height=120&section=footer" width="100%"/>
 
 </div>
