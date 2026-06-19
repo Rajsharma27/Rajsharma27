@@ -38,7 +38,7 @@ I am a passionate **Machine Learning Engineer** and **AI Developer** who enjoys 
 
 ### 🚀 Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,js" />
 </p>
 
 ### 🤖 AI, Machine Learning & Data Science
@@ -54,7 +54,7 @@ I am a passionate **Machine Learning Engineer** and **AI Developer** who enjoys 
 
 ### 🌐 Backend & Web Development
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=fastapi,flask,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=fastapi,flask,html,css,react" />
 </p>
 
 ### 🗄️ Databases
