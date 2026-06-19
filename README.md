@@ -4,11 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Machine+Learning+Engineer;Deep+Learning+Enthusiast;AI+Developer;Always+Learning+New+Things+🚀)](https://git.io/typing-svg)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rajsharma27&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <a href="https://github.com/Rajsharma27?tab=followers"><img src="https://img.shields.io/github/followers/Rajsharma27?style=flat&logo=github&color=36BCF7" alt="Followers"/></a>
-  <a href="https://github.com/Rajsharma27?tab=repositories"><img src="https://img.shields.io/github/stars/Rajsharma27?style=flat&logo=github&color=36BCF7" alt="Stars"/></a>
-</p>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rajsharma27/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
